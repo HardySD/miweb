@@ -1,3 +1,4 @@
 Gorda felix
 Lucky feliz 1
 probando la actualización de mi repositorio
+ahora mi rama principal es main
